@@ -1,0 +1,3 @@
+﻿  FundamentalDataTypes3.cpp
+C:\Users\Reaper\Desktop\QAP\cpp\FundamentalDataTypes3\FundamentalDataTypes3.cpp(103,13): warning C4305: 'initializing': truncation from 'int' to 'bool'
+  FundamentalDataTypes3.vcxproj -> C:\Users\Reaper\Desktop\QAP\cpp\FundamentalDataTypes3\Debug\FundamentalDataTypes3.exe
