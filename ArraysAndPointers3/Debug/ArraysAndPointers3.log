@@ -1,0 +1,6 @@
+﻿  ArraysAndPointers3.cpp
+C:\Users\Reaper\Desktop\QAP\cpp\ArraysAndPointers3\ArraysAndPointers3.cpp(80,10): warning C4101: 'dPtr': unreferenced local variable
+C:\Users\Reaper\Desktop\QAP\cpp\ArraysAndPointers3\ArraysAndPointers3.cpp(82,15): warning C4101: 'iPtr3': unreferenced local variable
+C:\Users\Reaper\Desktop\QAP\cpp\ArraysAndPointers3\ArraysAndPointers3.cpp(79,7): warning C4101: 'iPtr': unreferenced local variable
+C:\Users\Reaper\Desktop\QAP\cpp\ArraysAndPointers3\ArraysAndPointers3.cpp(82,7): warning C4101: 'iPtr2': unreferenced local variable
+  ArraysAndPointers3.vcxproj -> C:\Users\Reaper\Desktop\QAP\cpp\ArraysAndPointers3\Debug\ArraysAndPointers3.exe
