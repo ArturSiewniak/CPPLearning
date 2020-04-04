@@ -1,0 +1,2 @@
+C:\Users\Reaper\Desktop\QAP\cpp\ArraysAndPointers6\Debug\ArraysAndPointers6.exe
+C:\Users\Reaper\Desktop\QAP\cpp\ArraysAndPointers6\Debug\ArraysAndPointers6.pdb
