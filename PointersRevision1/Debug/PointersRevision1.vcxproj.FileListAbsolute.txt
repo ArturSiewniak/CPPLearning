@@ -1,0 +1,2 @@
+C:\Users\Reaper\Desktop\QAP\cpp\PointersRevision1\Debug\PointersRevision1.exe
+C:\Users\Reaper\Desktop\QAP\cpp\PointersRevision1\Debug\PointersRevision1.pdb
