@@ -1,0 +1,2 @@
+C:\Users\Reaper\Desktop\QAP\cpp\LambdasRevision1\Debug\LambdasRevision1.exe
+C:\Users\Reaper\Desktop\QAP\cpp\LambdasRevision1\Debug\LambdasRevision1.pdb
