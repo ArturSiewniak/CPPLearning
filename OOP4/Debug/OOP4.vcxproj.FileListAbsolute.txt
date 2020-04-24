@@ -1,0 +1,2 @@
+C:\Users\Reaper\Desktop\QAP\cpp\OOP4\Debug\OOP4.exe
+C:\Users\Reaper\Desktop\QAP\cpp\OOP4\Debug\OOP4.pdb
