@@ -1,0 +1,2 @@
+C:\Users\Reaper\Desktop\QAP\cpp\ObjectRelationships1\Debug\ObjectRelationships1.exe
+C:\Users\Reaper\Desktop\QAP\cpp\ObjectRelationships1\Debug\ObjectRelationships1.pdb
