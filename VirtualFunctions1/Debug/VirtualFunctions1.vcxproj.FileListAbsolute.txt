@@ -1,0 +1,2 @@
+C:\Users\Siwy\Desktop\qap\cpp\VirtualFunctions1\Debug\VirtualFunctions1.exe
+C:\Users\Siwy\Desktop\qap\cpp\VirtualFunctions1\Debug\VirtualFunctions1.pdb
