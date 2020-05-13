@@ -1,0 +1,5 @@
+﻿  Exceptions2.cpp
+C:\Users\Siwy\Desktop\qap\cpp\Exceptions2\Exceptions2.cpp(121,19): warning C4101: 'derived': unreferenced local variable
+C:\Users\Siwy\Desktop\qap\cpp\Exceptions2\Exceptions2.cpp(125,16): warning C4101: 'base': unreferenced local variable
+C:\Users\Siwy\Desktop\qap\cpp\Exceptions2\Exceptions2.cpp(137,28): warning C4101: 'exception': unreferenced local variable
+  Exceptions2.vcxproj -> C:\Users\Siwy\Desktop\qap\cpp\Exceptions2\Debug\Exceptions2.exe
