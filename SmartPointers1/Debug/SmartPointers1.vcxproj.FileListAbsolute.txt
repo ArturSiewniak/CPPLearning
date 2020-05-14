@@ -1,0 +1,2 @@
+C:\Users\Siwy\Desktop\qap\cpp\SmartPointers1\Debug\SmartPointers1.exe
+C:\Users\Siwy\Desktop\qap\cpp\SmartPointers1\Debug\SmartPointers1.pdb
