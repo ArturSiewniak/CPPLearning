@@ -1,0 +1,2 @@
+C:\Users\Siwy\Desktop\qap\cpp\String1\Debug\String1.exe
+C:\Users\Siwy\Desktop\qap\cpp\String1\Debug\String1.pdb
