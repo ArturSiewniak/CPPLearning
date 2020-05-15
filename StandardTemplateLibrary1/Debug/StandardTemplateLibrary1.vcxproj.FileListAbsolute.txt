@@ -1,0 +1,2 @@
+C:\Users\Siwy\Desktop\qap\cpp\StandardTemplateLibrary1\Debug\StandardTemplateLibrary1.exe
+C:\Users\Siwy\Desktop\qap\cpp\StandardTemplateLibrary1\Debug\StandardTemplateLibrary1.pdb

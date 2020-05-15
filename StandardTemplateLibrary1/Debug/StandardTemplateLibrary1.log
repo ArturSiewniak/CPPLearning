@@ -1,0 +1,4 @@
+﻿  StandardTemplateLibrary1.cpp
+C:\Users\Siwy\Desktop\qap\cpp\StandardTemplateLibrary1\StandardTemplateLibrary1.cpp(19,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Siwy\Desktop\qap\cpp\StandardTemplateLibrary1\StandardTemplateLibrary1.cpp(32,28): warning C4018: '<': signed/unsigned mismatch
+  StandardTemplateLibrary1.vcxproj -> C:\Users\Siwy\Desktop\qap\cpp\StandardTemplateLibrary1\Debug\StandardTemplateLibrary1.exe
